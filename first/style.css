@@ -1,0 +1,29 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.foo {
+	width: 70%;
+	height: 15%;
+	background-color: Black;
+	clear: both;
+}
+
+.foo2 {
+	width: 15%;
+	height: 1000px;
+	background-color: Gainsboro;
+	float: left;
+}
+
+#yo {
+	float: right;
+
+}
+
+.foo3 {
+	background-color: DimGray;
+	width: 100%;
+	height: 20%;
+}
