@@ -44,10 +44,7 @@ html, body {
 	width: 80px;
 	background-color: #4E92DF;
 	margin-left: 20px;
-	/*margin-bottom: 10px;
-	margin-top: 10px;*/
-	/*margin: auto;
 	position: absolute;
-	top: 0;
-	bottom: 0;*/
+	top: 10px;
+	left: 12px;
 }
