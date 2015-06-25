@@ -1,0 +1,53 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.one {
+	height: 14.29%;
+	background-color: #D8D8D8;
+	position: relative;
+}
+
+.twothree {
+	height: 28.58%;
+	background-color: White;
+}
+
+.four {
+	height: 14.29%;
+	background-color: #4E92DF;
+}
+
+.five {
+	height: 14.29%;
+	background-color: #58E2C2;
+}
+
+.six {
+	height: 14.29%;
+	background-color: #B9E78B;
+}
+
+.seven {
+	height: 14.29%;
+	background-color: #F7E53B;
+}
+
+.text {
+	font-size: 25px;
+	padding: 20px 40px 20px
+}
+
+.box {
+	height: 80px;
+	width: 80px;
+	background-color: #4E92DF;
+	margin-left: 20px;
+	/*margin-bottom: 10px;
+	margin-top: 10px;*/
+	/*margin: auto;
+	position: absolute;
+	top: 0;
+	bottom: 0;*/
+}
